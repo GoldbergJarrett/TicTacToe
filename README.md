@@ -1,3 +1,2 @@
 # TicTacToe
-A project I did for my Udemy Python course.
-Create a tic tac toe board that 2 players can play on 1 PC.
+This was a simple project I made after learning the differences between Python 2.7 and Python 3.
